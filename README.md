@@ -3,7 +3,7 @@ Test docker auto build
 
 ## Example
 
-    docker run -it mydock/yosay "hello world"
+    docker run -it moander/yosay "hello world"
     
 
 Lorem ipsum!
